@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Custom Voicebot for Ecommerce Customer Service
 
 This project is a custom voicebot designed to assist customers with ecommerce-related queries. It uses speech recognition to understand user input, a LangChain conversational agent powered by OpenAI to generate responses, and text-to-speech to communicate back to the user.
@@ -43,6 +42,3 @@ Speak your ecommerce-related questions or requests clearly. To exit, say "quit",
 ## License
 
 MIT License
-=======
-# Voicebot
->>>>>>> a3c5bdc60ac59b5a0adcec37b0be697911590a3e
